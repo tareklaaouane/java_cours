@@ -4,7 +4,7 @@
 - Implement:
     - An **`if-else`** statement that compares two integers.
     - A **`for loop`** printing numbers from 1 to 5.
-    - A **`while loop**` that counts down from 5 to 1.
+    - A **`while loop`** that counts down from 5 to 1.
 - Compile and run with CLI:
     - `javac LogicPlayground.java`
     - `java LogicPlayground`
